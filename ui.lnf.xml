@@ -1,0 +1,14 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="UI_SHOW_MODULE_GROUPS" value="false" />
+  </component>
+  <component name="UISettings">
+    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="20000" />
+    <option name="MAX_LOOKUP_WIDTH2" value="999" />
+    <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
+  </component>
+</application>

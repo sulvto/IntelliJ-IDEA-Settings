@@ -1,0 +1,15 @@
+<keymap version="1" name="Default for GNOME copy 1" parent="Default for GNOME">
+  <action id="ChangesView.UnshelveSilently" />
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
+  <action id="Macro.auto build">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="SaveAll" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
+</keymap>

@@ -1,0 +1,384 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>blacjCompanyMapper</entry>
+        <entry>blackCompanyMapper</entry>
+        <entry>goodEventMapper</entry>
+        <entry encoding="base64">XDxnZXRDcmVkaXRTY29yZVw+</entry>
+        <entry>common</entry>
+        <entry>Ten</entry>
+        <entry>s</entry>
+        <entry>ApiModelProperty</entry>
+        <entry>findCompany</entry>
+        <entry>%s</entry>
+        <entry>indexName</entry>
+        <entry encoding="base64">XDxpbmRleE5hbWVcPg==</entry>
+        <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
+        <entry>map</entry>
+        <entry>MAP</entry>
+        <entry>put</entry>
+        <entry>getCircleData</entry>
+        <entry encoding="base64">XDxjaXJjbGVEYXRhMVw+</entry>
+        <entry>dev</entry>
+        <entry>public</entry>
+      </history-search>
+      <history-cmd>
+        <entry>/wapper</entry>
+        <entry>q</entry>
+        <entry>:W</entry>
+        <entry>s/indexName/aaa/g</entry>
+        <entry>/getCircleData</entry>
+        <entry>:w</entry>
+        <entry>W</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/disruptor/InitTaskHandler.java" timestamp="1587180675580">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="23" column="57" />
+        <mark key="]" line="30" column="4" />
+        <mark key="^" line="30" column="4" />
+        <mark key="." line="30" column="3" />
+      </file>
+      <file name="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-manage/src/main/resources/config/application-qin.yml" timestamp="1561615658482">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1561632352454">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/disruptor/AbstractCalcTaskExecutor.java" timestamp="1587181412267">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-service/src/main/java/com/bbd/gov/ent/service/components/RelationCacheUtils.java" timestamp="1561621648227">
+        <mark key="[" line="106" column="8" />
+        <mark key="]" line="106" column="8" />
+        <mark key="." line="106" column="8" />
+      </file>
+      <file name="$USER_HOME$/development/workspace/nuge/strategy-service/facade/impl/src/main/java/com/bbd/regtech/strategy/web/ExcelExportController.java" timestamp="1595555731778">
+        <mark key="'" line="195" column="13" />
+        <mark key="[" line="75" column="14" />
+        <mark key="]" line="75" column="14" />
+        <mark key="^" line="75" column="14" />
+        <mark key="." line="75" column="13" />
+      </file>
+      <file name="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" timestamp="1561622198325">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+      </file>
+      <file name="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/disruptor/CalcTaskProducer.java" timestamp="1587180479097">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="74" column="62" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/disruptor/DefaultCalcTaskConsumer.java" timestamp="1587181518819">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="36" column="37" />
+        <mark key="]" line="36" column="69" />
+        <mark key="." line="36" column="68" />
+        <mark key="^" line="36" column="69" />
+      </file>
+      <file name="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/disruptor/CalcTaskExecutor.java" timestamp="1587181016749">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-service/src/main/java/com/bbd/gov/ent/service/impl/ManageDataServiceImpl.java" timestamp="1561627579479">
+        <mark key="'" line="108" column="39" />
+        <mark key="[" line="108" column="57" />
+        <mark key="]" line="108" column="57" />
+        <mark key="." line="108" column="57" />
+        <mark key="^" line="109" column="9" />
+      </file>
+      <file name="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-dao/src/main/resources/mybatis/mapper/IndicatorRiskIndexHistoryMapper.xml" timestamp="1561619338848">
+        <mark key="[" line="243" column="4" />
+        <mark key="]" line="243" column="4" />
+        <mark key="." line="243" column="4" />
+      </file>
+      <file name="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-task/src/main/java/com/bbd/gov/ent/task/score/RiskIndexCalcService.java" timestamp="1561684533112">
+        <mark key="[" line="323" column="149" />
+        <mark key="]" line="323" column="149" />
+        <mark key="." line="323" column="149" />
+      </file>
+      <file name="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/disruptor/CalcTaskConsumer.java" timestamp="1587179868536">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="24" />
+        <mark key="^" line="11" column="25" />
+      </file>
+      <file name="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-dao/src/main/resources/mybatis/mapper/CommonChangeDetailMapper.xml" timestamp="1561632161355">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="110" column="48" />
+        <mark key="." line="110" column="48" />
+      </file>
+      <file name="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/disruptor/DisruptorCalcTaskConsumer.java" timestamp="1587181456617">
+        <mark key="[" line="180" column="0" />
+        <mark key="]" line="180" column="0" />
+        <mark key="^" line="39" column="84" />
+        <mark key="." line="180" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1587181318226">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/service/impl/CalcServiceImpl.java" timestamp="1587181140113">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="31" column="67" />
+        <mark key="." line="37" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="499" column="37" filename="$USER_HOME$/development/workspace/nuge/credit-platform/common/dal/src/main/resources/mapper/credit/AreaMultipleGoodIndexMapperEXT.xml" />
+      <jump line="516" column="133" filename="$USER_HOME$/development/workspace/nuge/credit-platform/common/dal/src/main/resources/mapper/credit/AreaMultipleGoodIndexMapperEXT.xml" />
+      <jump line="534" column="29" filename="$USER_HOME$/development/workspace/nuge/credit-platform/common/dal/src/main/resources/mapper/credit/AreaMultipleGoodIndexMapperEXT.xml" />
+      <jump line="552" column="29" filename="$USER_HOME$/development/workspace/nuge/credit-platform/common/dal/src/main/resources/mapper/credit/AreaMultipleGoodIndexMapperEXT.xml" />
+      <jump line="571" column="29" filename="$USER_HOME$/development/workspace/nuge/credit-platform/common/dal/src/main/resources/mapper/credit/AreaMultipleGoodIndexMapperEXT.xml" />
+      <jump line="55" column="4" filename="$USER_HOME$/development/workspace/nuge/credit-platform/facade/web/src/main/java/com/bbd/ynfgw/web/plugin/DiamondConfListener.java" />
+      <jump line="34" column="42" filename="$USER_HOME$/development/workspace/nuge/credit-platform/biz/service/src/main/java/com/bbd/ynfgw/biz/service/impl/AreaMultipleGoodIndexServiceImpl.java" />
+      <jump line="777" column="64" filename="$USER_HOME$/development/workspace/nuge/credit-platform/biz/service/src/main/java/com/bbd/ynfgw/biz/service/impl/AreaMultipleGoodIndexServiceImpl.java" />
+      <jump line="778" column="40" filename="$USER_HOME$/development/workspace/nuge/credit-platform/biz/service/src/main/java/com/bbd/ynfgw/biz/service/impl/AreaMultipleGoodIndexServiceImpl.java" />
+      <jump line="812" column="41" filename="$USER_HOME$/development/workspace/nuge/credit-platform/biz/service/src/main/java/com/bbd/ynfgw/biz/service/impl/AreaMultipleGoodIndexServiceImpl.java" />
+      <jump line="32" column="31" filename="$USER_HOME$/development/workspace/nuge/credit-platform/biz/service/src/main/java/com/bbd/ynfgw/biz/service/impl/AreaMultipleGoodIndexServiceImpl.java" />
+      <jump line="694" column="23" filename="$USER_HOME$/development/workspace/nuge/credit-platform/biz/service/src/main/java/com/bbd/ynfgw/biz/service/impl/AreaMultipleGoodIndexServiceImpl.java" />
+      <jump line="30" column="28" filename="$USER_HOME$/development/workspace/nuge/credit-platform/biz/service/src/main/java/com/bbd/ynfgw/biz/service/impl/AreaMultipleGoodIndexServiceImpl.java" />
+      <jump line="22" column="12" filename="$USER_HOME$/development/workspace/nuge/credit-platform/biz/domain/src/main/java/com/bbd/ynfgw/biz/constant/FieldConst.java" />
+      <jump line="65" column="36" filename="$USER_HOME$/development/workspace/nuge/credit-platform/biz/service/src/main/java/com/bbd/ynfgw/biz/service/impl/HomePageServiceImpl.java" />
+      <jump line="130" column="25" filename="$USER_HOME$/development/workspace/nuge/credit-platform/biz/service/src/main/java/com/bbd/ynfgw/biz/service/impl/HomePageServiceImpl.java" />
+      <jump line="131" column="36" filename="$USER_HOME$/development/workspace/nuge/credit-platform/biz/service/src/main/java/com/bbd/ynfgw/biz/service/impl/HomePageServiceImpl.java" />
+      <jump line="41" column="60" filename="$USER_HOME$/development/workspace/nuge/credit-platform/creditmap/dal/src/main/resources/generatorConfig.xml" />
+      <jump line="24" column="77" filename="$USER_HOME$/development/workspace/nuge/credit-platform/creditmap/dal/src/main/resources/generatorConfig.xml" />
+      <jump line="28" column="83" filename="$USER_HOME$/development/workspace/nuge/credit-platform/creditmap/dal/src/main/resources/generatorConfig.xml" />
+      <jump line="29" column="95" filename="$USER_HOME$/development/workspace/nuge/credit-platform/creditmap/dal/src/main/resources/generatorConfig.xml" />
+      <jump line="49" column="44" filename="$USER_HOME$/development/workspace/nuge/credit-platform/creditmap/dal/src/main/resources/generatorConfig.xml" />
+      <jump line="14" column="62" filename="$USER_HOME$/development/workspace/nuge/credit-platform/creditmap/dal/src/main/resources/generatorConfig.xml" />
+      <jump line="54" column="0" filename="$USER_HOME$/development/workspace/nuge/credit-platform/biz/service/pom.xml" />
+      <jump line="57" column="11" filename="$USER_HOME$/development/workspace/nuge/credit-platform/biz/service/pom.xml" />
+      <jump line="18" column="12" filename="$USER_HOME$/development/workspace/nuge/credit-platform/creditmap/dal/src/main/resources/mapper/credit/AreaMultipleGoodIndexMapperEXT.xml" />
+      <jump line="84" column="27" filename="$USER_HOME$/development/workspace/nuge/credit-platform/biz/service/src/main/java/com/bbd/ynfgw/biz/service/BlackCompanyServiceImpl.java" />
+      <jump line="99" column="20" filename="$USER_HOME$/development/workspace/nuge/credit-platform/common/model/src/main/java/com/bbd/ynfgw/common/model/BlackViewEntity.java" />
+      <jump line="47" column="20" filename="$USER_HOME$/development/workspace/nuge/credit-platform/common/model/src/main/java/com/bbd/ynfgw/common/model/BlackViewEntity.java" />
+      <jump line="3" column="30" filename="$USER_HOME$/development/workspace/nuge/credit-platform/common/model/src/main/java/com/bbd/ynfgw/common/model/BlackViewEntity.java" />
+      <jump line="35" column="5" filename="$USER_HOME$/development/workspace/nuge/credit-platform/common/model/src/main/java/com/bbd/ynfgw/common/model/BlackViewEntity.java" />
+      <jump line="39" column="5" filename="$USER_HOME$/development/workspace/nuge/credit-platform/common/model/src/main/java/com/bbd/ynfgw/common/model/BlackViewEntity.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-service/src/main/java/com/bbd/gov/ent/service/CompanyRiskDetailsService.java" />
+      <jump line="20" column="104" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-service/src/main/java/com/bbd/gov/ent/service/CompanyRiskDetailsService.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-service/src/main/java/com/bbd/gov/ent/service/impl/CompanyRiskDetailsServiceImpl.java" />
+      <jump line="586" column="46" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="106" column="8" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="135" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="136" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="137" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="138" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="139" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="140" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="141" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="150" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="151" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="152" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="153" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="162" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="163" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="164" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="165" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="166" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="167" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="168" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="107" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="108" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="109" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="110" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="111" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="112" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="121" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="122" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="123" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="124" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="125" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="126" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="127" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="128" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="129" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="130" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="131" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="132" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="133" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="134" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="6" column="2" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="137" column="46" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-relation/biz/service/src/main/java/com/bbd/gov/ent/biz/service/impl/AnalyzeServiceImpl.java" />
+      <jump line="269" column="46" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-relation/biz/service/src/main/java/com/bbd/gov/ent/biz/service/impl/AnalyzeServiceImpl.java" />
+      <jump line="271" column="46" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-relation/biz/service/src/main/java/com/bbd/gov/ent/biz/service/impl/AnalyzeServiceImpl.java" />
+      <jump line="275" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-relation/biz/service/src/main/java/com/bbd/gov/ent/biz/service/impl/AnalyzeServiceImpl.java" />
+      <jump line="142" column="12" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-relation/biz/service/src/main/java/com/bbd/gov/ent/biz/service/impl/AnalyzeServiceImpl.java" />
+      <jump line="135" column="21" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-relation/biz/service/src/main/java/com/bbd/gov/ent/biz/service/impl/AnalyzeServiceImpl.java" />
+      <jump line="0" column="34" filename="/fragment.java" />
+      <jump line="139" column="31" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-task/src/main/java/com/bbd/gov/ent/task/score/RiskIndexCalcService.java" />
+      <jump line="61" column="18" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-service/src/main/java/com/bbd/gov/ent/service/RelationService.java" />
+      <jump line="309" column="39" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="747" column="0" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" />
+      <jump line="28" column="31" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-web/src/main/resources/config/logback-spring.xml" />
+      <jump line="45" column="44" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-task/src/main/resources/config/logback-spring.xml" />
+      <jump line="106" column="39" filename="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-service/src/main/java/com/bbd/gov/ent/service/impl/ManageDataServiceImpl.java" />
+      <jump line="97" column="0" filename="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/disruptor/InitTaskHandler.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/disruptor/InitTaskHandler.java" />
+      <jump line="123" column="1" filename="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/disruptor/InitTaskHandler.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/disruptor/InitTaskHandler.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/disruptor/DefaultCalcTaskConsumer.java" />
+      <jump line="343" column="22" filename="$USER_HOME$/development/workspace/nuge/strategy-service/facade/impl/src/main/java/com/bbd/regtech/strategy/web/ExcelExportController.java" />
+      <jump line="99" column="8" filename="$USER_HOME$/development/workspace/nuge/strategy-service/facade/impl/src/main/java/com/bbd/regtech/strategy/web/ExcelExportController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/development/workspace/nuge/strategy-service/facade/impl/src/main/java/com/bbd/regtech/strategy/web/ExcelExportController.java" />
+      <jump line="777" column="0" filename="$USER_HOME$/development/workspace/nuge/strategy-service/facade/impl/src/main/java/com/bbd/regtech/strategy/web/ExcelExportController.java" />
+      <jump line="195" column="13" filename="$USER_HOME$/development/workspace/nuge/strategy-service/facade/impl/src/main/java/com/bbd/regtech/strategy/web/ExcelExportController.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="4">
+        <text>j</text>
+      </register>
+      <register name="-" type="4">
+        <text>j</text>
+      </register>
+      <register name="/" type="4">
+        <text>public</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIuaXoOmcgOabtOaWsGJiZFF5eHhJZO+8miB7fSDoirHotLnml7bpl7R7fW1zIiwgY2FsY0NvbXBhbnkuZ2V0QmJkUXl4eElkKCksIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gY2FsY1Rhc2suZ2V0U3RhcnRUaW1lKCkpOwogICAgICAgICAgICBjYWxjVGFzay5nZXRSZXN1bHRDb25zdW1lcigpLmFjY2VwdChudWxsLCAi5peg6ZyA5pu05pawIik7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHB1Ymxpc2goQ2FsY0NvbXBhbnkgY2FsY0NvbXBhbnksIEJpQ29uc3VtZXI8Q2FsY1Jlc3VsdCwgU3RyaW5nPiByZXN1bHRDb25zdW1lcikgewogICAgICAgIENhbGNUYXNrIGNhbGNUYXNrID0gbmV3IENhbGNUYXNrKCk7CiAgICAgICAgY2FsY1Rhc2suc2V0Q2FsY0NvbXBhbnkoY2FsY0NvbXBhbnkpOwogICAgICAgIGNhbGNUYXNrLnNldFJlc3VsdENvbnN1bWVyKHJlc3VsdENvbnN1bWVyKTsKCiAgICAgICAgY29uc3VtZShjYWxjVGFzayk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBwdWJsaXNoKENhbGNDb21wYW55IGNhbGNDb21wYW55KSB7CiAgICAgICAgcHVibGlzaChjYWxjQ29tcGFueSwgKGNhbGNSZXN1bHQsIG1lc3NhZ2UpIC0+IHt9KTsKICAgIH0K</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="65535" code="9" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgaW5pdChCbG9ja2luZ1F1ZXVlPENhbGNUYXNrPiBidWZmZXIpIHsKICAgICAgICBpZiAodGhpcy5idWZmZXIgPT0gbnVsbCkgewogICAgICAgICAgICB0aGlzLmJ1ZmZlciA9IGJ1ZmZlcjsKICAgICAgICAgICAgbmV3IFRocmVhZCgoKSAtPiB7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN1bWUodGhpcy5idWZmZXIudGFrZSgpKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICBsb2cuZXJyb3IoImJ1ZmZlci50YWtlIGVycm9yIiwgZSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pLnN0YXJ0KCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIkNhbGNUYXNrQ29uc3VtZXIg6YeN5aSN5Yid5aeL5YyWIik7CiAgICAgICAgfQogICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcHVibGlzaChDYWxjQ29tcGFueSBjYWxjQ29tcGFueSwgQmlDb25zdW1lcjxDYWxjUmVzdWx0LCBTdHJpbmc+IHJlc3VsdENvbnN1bWVyKSB7CgogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcHVibGlzaChDYWxjQ29tcGFueSBjYWxjQ29tcGFueSkgewoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQ2FsY1Rhc2tQcm9kdWNlciBjYWxjVGFza1Byb2R1Y2VyOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>public</last-search>
+      <last-offset />
+      <last-pattern>public</last-pattern>
+      <last-replace>aaa</last-replace>
+      <last-substitute>indexName</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>

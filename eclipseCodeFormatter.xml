@@ -1,0 +1,26 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="id" value="1584598959046" />
+          <option name="name" value="new" />
+        </Settings>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1584598974945" />
+          <option name="name" value="index-service" />
+          <option name="pathToConfigFileJava" value="$USER_HOME$/towin10/红警7/eclipse-codestyle.xml" />
+          <option name="selectedJavaProfile" value="P3C-CodeStyle" />
+        </Settings>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1584598985596" />
+          <option name="name" value="albaba" />
+          <option name="pathToConfigFileJava" value="$USER_HOME$/towin10/红警7/eclipse-codestyle.xml" />
+          <option name="selectedJavaProfile" value="P3C-CodeStyle" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>
