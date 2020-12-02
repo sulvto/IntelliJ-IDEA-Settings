@@ -62,5 +62,12 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="安装包">
+      <CLASSES>
+        <root url="jar:///data/home/sulvto/towin10/大数据决策项目/20201020部署相关/应用部署/安装包/sso-service-1.0-SNAPSHOT/sso-service-facade-service-impl-1.0-SNAPSHOT.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
