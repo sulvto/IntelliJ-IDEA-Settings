@@ -9,10 +9,10 @@
         <entry key="Basic Completion" value="NOT_PASSED" />
         <entry key="Basic Navigation" value="NOT_PASSED" />
         <entry key="Class Search" value="NOT_PASSED" />
-        <entry key="CodeAssistance.CodeFormatting" value="NOT_PASSED" />
+        <entry key="CodeAssistance.CodeFormatting" value="PASSED" />
         <entry key="CodeAssistance.EditorCodingAssistance" value="NOT_PASSED" />
-        <entry key="CodeAssistance.ParameterInfo" value="NOT_PASSED" />
-        <entry key="CodeAssistance.QuickPopups" value="NOT_PASSED" />
+        <entry key="CodeAssistance.ParameterInfo" value="PASSED" />
+        <entry key="CodeAssistance.QuickPopups" value="PASSED" />
         <entry key="Collapse" value="NOT_PASSED" />
         <entry key="Comment Line" value="NOT_PASSED" />
         <entry key="Completion with Tab" value="NOT_PASSED" />
@@ -45,9 +45,9 @@
         <entry key="Method-Like Function Completion" value="NOT_PASSED" />
         <entry key="Move" value="NOT_PASSED" />
         <entry key="Multiple Selections" value="NOT_PASSED" />
-        <entry key="Navigation.Declaration/Implementation" value="NOT_PASSED" />
-        <entry key="Navigation.FileStructure" value="NOT_PASSED" />
-        <entry key="Navigation.JumptoSource" value="NOT_PASSED" />
+        <entry key="Navigation.Declaration/Implementation" value="PASSED" />
+        <entry key="Navigation.FileStructure" value="PASSED" />
+        <entry key="Navigation.JumptoSource" value="PASSED" />
         <entry key="Navigation.Next/PreviousOccurrences" value="NOT_PASSED" />
         <entry key="Postfix Completion" value="NOT_PASSED" />
         <entry key="Refactoring Menu" value="NOT_PASSED" />
@@ -89,6 +89,38 @@
   <component name="StatisticBase">
     <option name="persistedLessonId2State">
       <map>
+        <entry key="CodeAssistance.CodeFormatting">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="6558" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="CodeAssistance.EditorCodingAssistance">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1609898568181" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="CodeAssistance.ParameterInfo">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="27178" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="CodeAssistance.QuickPopups">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="8020" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="Completions.BasicCompletion">
           <value>
             <StatisticData>
@@ -118,6 +150,38 @@
             <StatisticData>
               <option name="state" value="PASSED" />
               <option name="timestamp" value="112830" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.Declaration/Implementation">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="72351" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.FileStructure">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="5083" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.JumptoSource">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="153612" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.Next/PreviousOccurrences">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1609898425230" />
             </StatisticData>
           </value>
         </entry>
