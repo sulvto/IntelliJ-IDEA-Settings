@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>blacjCompanyMapper</entry>
-        <entry>blackCompanyMapper</entry>
         <entry>goodEventMapper</entry>
         <entry encoding="base64">XDxnZXRDcmVkaXRTY29yZVw+</entry>
         <entry>common</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxjaXJjbGVEYXRhMVw+</entry>
         <entry>dev</entry>
         <entry>public</entry>
+        <entry>class</entry>
+        <entry>@Aut</entry>
       </history-search>
       <history-cmd>
         <entry>/wapper</entry>
@@ -34,8 +34,8 @@
         <entry>/getCircleData</entry>
         <entry>:w</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -109,25 +109,44 @@
         <mark key="^" line="30" column="4" />
         <mark key="." line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-manage/src/main/resources/config/application-qin.yml" timestamp="1561615658482">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1561632352454">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="22" />
-      </file>
       <file name="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/disruptor/AbstractCalcTaskExecutor.java" timestamp="1587181412267">
         <mark key="[" line="22" column="5" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-service/src/main/java/com/bbd/gov/ent/service/components/RelationCacheUtils.java" timestamp="1561621648227">
-        <mark key="[" line="106" column="8" />
-        <mark key="]" line="106" column="8" />
-        <mark key="." line="106" column="8" />
+      <file name="/a.dummy" timestamp="1610523690513">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/disruptor/CalcTaskProducer.java" timestamp="1587180479097">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="74" column="62" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/workspace/nuge/Project/cdht-sentinel/build-service/common/model/src/main/java/com/bbd/sentinel/common/model/BuildingPoliceStation.java" timestamp="1610523210340">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="26" />
+      </file>
+      <file name="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/disruptor/CalcTaskConsumer.java" timestamp="1587179868536">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="24" />
+        <mark key="^" line="11" column="25" />
+      </file>
+      <file name="$USER_HOME$/development/workspace/nuge/Project/cdht-sentinel/build-service/biz/service/src/main/java/com/bbd/sentinel/biz/service/impl/BuildingServiceImpl.java" timestamp="1610524269191">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="90" column="46" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/workspace/nuge/Project/cdht-sentinel/build-service/biz/service/src/main/java/com/bbd/sentinel/biz/service/BuildingService.java" timestamp="1610524209583">
+        <mark key="[" line="59" column="5" />
+        <mark key="]" line="59" column="5" />
+        <mark key="." line="59" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1610523949494">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/development/workspace/nuge/strategy-service/facade/impl/src/main/java/com/bbd/regtech/strategy/web/ExcelExportController.java" timestamp="1595555731778">
         <mark key="'" line="195" column="13" />
@@ -136,16 +155,7 @@
         <mark key="^" line="75" column="14" />
         <mark key="." line="75" column="13" />
       </file>
-      <file name="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-commons/src/main/java/com/bbd/gov/ent/commons/util/Constants.java" timestamp="1561622198325">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="12" />
-        <mark key="." line="11" column="12" />
-      </file>
-      <file name="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/disruptor/CalcTaskProducer.java" timestamp="1587180479097">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="74" column="62" />
-        <mark key="." line="63" column="0" />
-      </file>
+      <file name="/BuildingService.java" timestamp="1610524176332" />
       <file name="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/disruptor/DefaultCalcTaskConsumer.java" timestamp="1587181518819">
         <mark key="'" line="51" column="0" />
         <mark key="[" line="36" column="37" />
@@ -158,34 +168,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-service/src/main/java/com/bbd/gov/ent/service/impl/ManageDataServiceImpl.java" timestamp="1561627579479">
-        <mark key="'" line="108" column="39" />
-        <mark key="[" line="108" column="57" />
-        <mark key="]" line="108" column="57" />
-        <mark key="." line="108" column="57" />
-        <mark key="^" line="109" column="9" />
-      </file>
-      <file name="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-dao/src/main/resources/mybatis/mapper/IndicatorRiskIndexHistoryMapper.xml" timestamp="1561619338848">
-        <mark key="[" line="243" column="4" />
-        <mark key="]" line="243" column="4" />
-        <mark key="." line="243" column="4" />
-      </file>
       <file name="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-task/src/main/java/com/bbd/gov/ent/task/score/RiskIndexCalcService.java" timestamp="1561684533112">
         <mark key="[" line="323" column="149" />
         <mark key="]" line="323" column="149" />
         <mark key="." line="323" column="149" />
       </file>
-      <file name="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/disruptor/CalcTaskConsumer.java" timestamp="1587179868536">
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="25" />
-        <mark key="." line="11" column="24" />
-        <mark key="^" line="11" column="25" />
-      </file>
-      <file name="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-dao/src/main/resources/mybatis/mapper/CommonChangeDetailMapper.xml" timestamp="1561632161355">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="110" column="48" />
-        <mark key="." line="110" column="48" />
-      </file>
+      <file name="/BuildingController.java" timestamp="1610524074245" />
       <file name="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/disruptor/DisruptorCalcTaskConsumer.java" timestamp="1587181456617">
         <mark key="[" line="180" column="0" />
         <mark key="]" line="180" column="0" />
@@ -201,14 +189,9 @@
         <mark key="^" line="31" column="67" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="/BuildingServiceImpl.java" timestamp="1610524308793" />
     </filemarks>
     <jumps>
-      <jump line="499" column="37" filename="$USER_HOME$/development/workspace/nuge/credit-platform/common/dal/src/main/resources/mapper/credit/AreaMultipleGoodIndexMapperEXT.xml" />
-      <jump line="516" column="133" filename="$USER_HOME$/development/workspace/nuge/credit-platform/common/dal/src/main/resources/mapper/credit/AreaMultipleGoodIndexMapperEXT.xml" />
-      <jump line="534" column="29" filename="$USER_HOME$/development/workspace/nuge/credit-platform/common/dal/src/main/resources/mapper/credit/AreaMultipleGoodIndexMapperEXT.xml" />
-      <jump line="552" column="29" filename="$USER_HOME$/development/workspace/nuge/credit-platform/common/dal/src/main/resources/mapper/credit/AreaMultipleGoodIndexMapperEXT.xml" />
-      <jump line="571" column="29" filename="$USER_HOME$/development/workspace/nuge/credit-platform/common/dal/src/main/resources/mapper/credit/AreaMultipleGoodIndexMapperEXT.xml" />
-      <jump line="55" column="4" filename="$USER_HOME$/development/workspace/nuge/credit-platform/facade/web/src/main/java/com/bbd/ynfgw/web/plugin/DiamondConfListener.java" />
       <jump line="34" column="42" filename="$USER_HOME$/development/workspace/nuge/credit-platform/biz/service/src/main/java/com/bbd/ynfgw/biz/service/impl/AreaMultipleGoodIndexServiceImpl.java" />
       <jump line="777" column="64" filename="$USER_HOME$/development/workspace/nuge/credit-platform/biz/service/src/main/java/com/bbd/ynfgw/biz/service/impl/AreaMultipleGoodIndexServiceImpl.java" />
       <jump line="778" column="40" filename="$USER_HOME$/development/workspace/nuge/credit-platform/biz/service/src/main/java/com/bbd/ynfgw/biz/service/impl/AreaMultipleGoodIndexServiceImpl.java" />
@@ -303,6 +286,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/development/workspace/nuge/strategy-service/facade/impl/src/main/java/com/bbd/regtech/strategy/web/ExcelExportController.java" />
       <jump line="777" column="0" filename="$USER_HOME$/development/workspace/nuge/strategy-service/facade/impl/src/main/java/com/bbd/regtech/strategy/web/ExcelExportController.java" />
       <jump line="195" column="13" filename="$USER_HOME$/development/workspace/nuge/strategy-service/facade/impl/src/main/java/com/bbd/regtech/strategy/web/ExcelExportController.java" />
+      <jump line="52" column="1" filename="$USER_HOME$/development/workspace/nuge/Project/cdht-sentinel/build-service/biz/service/src/main/java/com/bbd/sentinel/biz/service/impl/BuildingServiceImpl.java" />
+      <jump line="57" column="6" filename="$USER_HOME$/development/workspace/nuge/Project/cdht-sentinel/build-service/biz/service/src/main/java/com/bbd/sentinel/biz/service/impl/BuildingServiceImpl.java" />
+      <jump line="402" column="0" filename="$USER_HOME$/development/workspace/nuge/Project/cdht-sentinel/build-service/biz/service/src/main/java/com/bbd/sentinel/biz/service/impl/BuildingServiceImpl.java" />
+      <jump line="405" column="19" filename="$USER_HOME$/development/workspace/nuge/Project/cdht-sentinel/build-service/biz/service/src/main/java/com/bbd/sentinel/biz/service/impl/BuildingServiceImpl.java" />
+      <jump line="75" column="40" filename="$USER_HOME$/development/workspace/nuge/Project/cdht-sentinel/build-service/biz/service/src/main/java/com/bbd/sentinel/biz/service/impl/BuildingServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/development/workspace/nuge/Project/cdht-sentinel/build-service/biz/service/src/main/java/com/bbd/sentinel/biz/service/impl/BuildingServiceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,20 +301,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>j</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudXRpbC5TdHJpbmdVdGlsczsK</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>orEqualTo(&quot;area&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>public</text>
+        <text>@Aut</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIuaXoOmcgOabtOaWsGJiZFF5eHhJZO+8miB7fSDoirHotLnml7bpl7R7fW1zIiwgY2FsY0NvbXBhbnkuZ2V0QmJkUXl4eElkKCksIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gY2FsY1Rhc2suZ2V0U3RhcnRUaW1lKCkpOwogICAgICAgICAgICBjYWxjVGFzay5nZXRSZXN1bHRDb25zdW1lcigpLmFjY2VwdChudWxsLCAi5peg6ZyA5pu05pawIik7Cg==</text>
+      <register name="0" type="4">
+        <text>gmtUpdate;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHB1Ymxpc2goQ2FsY0NvbXBhbnkgY2FsY0NvbXBhbnksIEJpQ29uc3VtZXI8Q2FsY1Jlc3VsdCwgU3RyaW5nPiByZXN1bHRDb25zdW1lcikgewogICAgICAgIENhbGNUYXNrIGNhbGNUYXNrID0gbmV3IENhbGNUYXNrKCk7CiAgICAgICAgY2FsY1Rhc2suc2V0Q2FsY0NvbXBhbnkoY2FsY0NvbXBhbnkpOwogICAgICAgIGNhbGNUYXNrLnNldFJlc3VsdENvbnN1bWVyKHJlc3VsdENvbnN1bWVyKTsKCiAgICAgICAgY29uc3VtZShjYWxjVGFzayk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBwdWJsaXNoKENhbGNDb21wYW55IGNhbGNDb21wYW55KSB7CiAgICAgICAgcHVibGlzaChjYWxjQ29tcGFueSwgKGNhbGNSZXN1bHQsIG1lc3NhZ2UpIC0+IHt9KTsKICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudXRpbC5TdHJpbmdVdGlsczsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -334,40 +323,42 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text>*      
+*      
+*</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgaW5pdChCbG9ja2luZ1F1ZXVlPENhbGNUYXNrPiBidWZmZXIpIHsKICAgICAgICBpZiAodGhpcy5idWZmZXIgPT0gbnVsbCkgewogICAgICAgICAgICB0aGlzLmJ1ZmZlciA9IGJ1ZmZlcjsKICAgICAgICAgICAgbmV3IFRocmVhZCgoKSAtPiB7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN1bWUodGhpcy5idWZmZXIudGFrZSgpKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICBsb2cuZXJyb3IoImJ1ZmZlci50YWtlIGVycm9yIiwgZSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pLnN0YXJ0KCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIkNhbGNUYXNrQ29uc3VtZXIg6YeN5aSN5Yid5aeL5YyWIik7CiAgICAgICAgfQogICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJqdXJpc2RpY3Rpb24iLCB2YWx1ZSA9ICLmtL7lh7rmiYDovpbljLoiLCByZXF1aXJlZCA9IGZhbHNlLCBwYXJhbVR5cGUgPSAicXVlcnkiKSwK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcHVibGlzaChDYWxjQ29tcGFueSBjYWxjQ29tcGFueSwgQmlDb25zdW1lcjxDYWxjUmVzdWx0LCBTdHJpbmc+IHJlc3VsdENvbnN1bWVyKSB7CgogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcHVibGlzaChDYWxjQ29tcGFueSBjYWxjQ29tcGFueSkgewoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ2FsY1Rhc2tQcm9kdWNlciBjYWxjVGFza1Byb2R1Y2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYnVpbGRpbmdQb2xpY2VTdGF0aW9uTWFwcGVyLnNlbGVjdEJ5RXhhbXBsZShleGFtcGxlKS5zdHJlYW0oKS5tYXAoQnVpbGRpbmdQb2xpY2VTdGF0aW9uOjpnZXROYW1lKS5kaXN0aW5jdCgpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZG51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHB1Ymxpc2goQ2FsY0NvbXBhbnkgY2FsY0NvbXBhbnksIEJpQ29uc3VtZXI8Q2FsY1Jlc3VsdCwgU3RyaW5nPiByZXN1bHRDb25zdW1lcikgewogICAgICAgIENhbGNUYXNrIGNhbGNUYXNrID0gbmV3IENhbGNUYXNrKCk7CiAgICAgICAgY2FsY1Rhc2suc2V0Q2FsY0NvbXBhbnkoY2FsY0NvbXBhbnkpOwogICAgICAgIGNhbGNUYXNrLnNldFJlc3VsdENvbnN1bWVyKHJlc3VsdENvbnN1bWVyKTsKCiAgICAgICAgY29uc3VtZShjYWxjVGFzayk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBwdWJsaXNoKENhbGNDb21wYW55IGNhbGNDb21wYW55KSB7CiAgICAgICAgcHVibGlzaChjYWxjQ29tcGFueSwgKGNhbGNSZXN1bHQsIG1lc3NhZ2UpIC0+IHt9KTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>public</last-search>
+      <last-search>@Aut</last-search>
       <last-offset />
-      <last-pattern>public</last-pattern>
+      <last-pattern>@Aut</last-pattern>
       <last-replace>aaa</last-replace>
       <last-substitute>indexName</last-substitute>
       <last-dir>1</last-dir>
@@ -375,7 +366,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
