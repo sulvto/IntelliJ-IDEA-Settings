@@ -140,7 +140,7 @@
         <mark key="]" line="59" column="5" />
         <mark key="." line="59" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1610523949494">
+      <file name="/Dummy.txt" timestamp="1610527056108">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="22" />
       </file>
@@ -357,7 +357,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
