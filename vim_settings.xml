@@ -115,9 +115,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/development/workspace/nuge/Project/cdht-sentinel/build-service/common/model/src/main/java/com/bbd/sentinel/common/model/BuildingInfo.java" timestamp="1610525556673" />
       <file name="/a.dummy" timestamp="1610523690513">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/development/workspace/nuge/Project/cdht-sentinel/build-service/biz/domain/src/main/java/com/bbd/sentinel/biz/domain/req/BuildingDomain.java" timestamp="1610525541047" />
       <file name="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/disruptor/CalcTaskProducer.java" timestamp="1587180479097">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="74" column="62" />
@@ -127,13 +129,7 @@
         <mark key="[" line="15" column="17" />
         <mark key="]" line="15" column="26" />
       </file>
-      <file name="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/disruptor/CalcTaskConsumer.java" timestamp="1587179868536">
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="25" />
-        <mark key="." line="11" column="24" />
-        <mark key="^" line="11" column="25" />
-      </file>
-      <file name="$USER_HOME$/development/workspace/nuge/Project/cdht-sentinel/build-service/biz/service/src/main/java/com/bbd/sentinel/biz/service/impl/BuildingServiceImpl.java" timestamp="1610524269191">
+      <file name="$USER_HOME$/development/workspace/nuge/Project/cdht-sentinel/build-service/biz/service/src/main/java/com/bbd/sentinel/biz/service/impl/BuildingServiceImpl.java" timestamp="1610525593194">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="90" column="46" />
         <mark key="]" line="49" column="0" />
@@ -167,11 +163,6 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/development/workspace/nuge/gov-ent/basic/gov-ent-task/src/main/java/com/bbd/gov/ent/task/score/RiskIndexCalcService.java" timestamp="1561684533112">
-        <mark key="[" line="323" column="149" />
-        <mark key="]" line="323" column="149" />
-        <mark key="." line="323" column="149" />
       </file>
       <file name="/BuildingController.java" timestamp="1610524074245" />
       <file name="$USER_HOME$/development/workspace/nuge/ra7/risk-calc-service/biz/service/src/main/java/com/bbd/ra7/biz/disruptor/DisruptorCalcTaskConsumer.java" timestamp="1587181456617">
