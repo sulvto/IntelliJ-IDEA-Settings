@@ -3,8 +3,10 @@
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern=".attach_pid80386" type="PLAIN_TEXT" />
+      <mapping pattern="wkhtmltoimage" type="PLAIN_TEXT" />
       <mapping pattern="mvn" type="PLAIN_TEXT" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
+      <mapping pattern="wkhtmltopdf" type="PLAIN_TEXT" />
       <mapping pattern="logs" type="PLAIN_TEXT" />
       <mapping pattern="DIR_IS_UNDEFINED" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
