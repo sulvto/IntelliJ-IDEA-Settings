@@ -13,6 +13,7 @@
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="base2" type="PLAIN_TEXT" />
       <mapping ext="copy" type="PLAIN_TEXT" />
+      <mapping ext="lib" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="p" type="PLAIN_TEXT" />
@@ -22,6 +23,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="lib" type="UNKNOWN" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="log" approved="true" type="PLAIN_TEXT" />
