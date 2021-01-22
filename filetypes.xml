@@ -16,6 +16,7 @@
       <mapping ext="base2" type="PLAIN_TEXT" />
       <mapping ext="copy" type="PLAIN_TEXT" />
       <mapping ext="lib" type="PLAIN_TEXT" />
+      <mapping ext="vm" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="p" type="PLAIN_TEXT" />
