@@ -22,6 +22,10 @@
           <option name="url" value="http://git.bbdops.com/ra7/index-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.bbdops.com&quot;" />
+          <option name="userName" value="qinchao" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/development/workspace/nuge/ra7" />
