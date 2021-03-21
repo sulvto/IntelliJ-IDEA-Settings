@@ -62,6 +62,26 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="scala-sdk-2.12.8" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file:///usr/local/scala-2.12.8/lib/scala-reflect.jar" />
+          <root url="file:///usr/local/scala-2.12.8/lib/scala-compiler.jar" />
+          <root url="file:///usr/local/scala-2.12.8/lib/scala-library.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar:///usr/local/scala-2.12.8/lib/scala-swing_2.12-2.0.3.jar!/" />
+        <root url="jar:///usr/local/scala-2.12.8/lib/scala-reflect.jar!/" />
+        <root url="jar:///usr/local/scala-2.12.8/lib/scala-xml_2.12-1.0.6.jar!/" />
+        <root url="jar:///usr/local/scala-2.12.8/lib/scala-parser-combinators_2.12-1.0.7.jar!/" />
+        <root url="jar:///usr/local/scala-2.12.8/lib/scala-library.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="https://www.scala-lang.org/api/2.12.8/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
     <library name="安装包">
       <CLASSES>
         <root url="jar:///data/home/sulvto/towin10/大数据决策项目/20201020部署相关/应用部署/安装包/sso-service-1.0-SNAPSHOT/sso-service-facade-service-impl-1.0-SNAPSHOT.jar!/" />
