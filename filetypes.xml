@@ -6,6 +6,7 @@
       <mapping pattern="wkhtmltoimage" type="PLAIN_TEXT" />
       <mapping pattern="mvn" type="PLAIN_TEXT" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
+      <mapping pattern="xxxxxxxxxxxx" type="PLAIN_TEXT" />
       <mapping pattern="wkhtmltopdf" type="PLAIN_TEXT" />
       <mapping pattern="logs" type="PLAIN_TEXT" />
       <mapping pattern="DIR_IS_UNDEFINED" type="PLAIN_TEXT" />
