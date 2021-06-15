@@ -10,6 +10,7 @@
       <mapping pattern="wkhtmltopdf" type="PLAIN_TEXT" />
       <mapping pattern="logs" type="PLAIN_TEXT" />
       <mapping pattern="DIR_IS_UNDEFINED" type="PLAIN_TEXT" />
+      <mapping pattern="pboc_corp_rcv_jn_2020" type="PLAIN_TEXT" />
       <mapping pattern="pboc_corp_pay_jn_2020" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="ModelService" type="PLAIN_TEXT" />
