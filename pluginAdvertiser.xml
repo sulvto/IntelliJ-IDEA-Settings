@@ -92,6 +92,11 @@
                       <FeaturePluginData displayName="MUnit" pluginName="Scala" pluginId="org.intellij.scala" />
                     </value>
                   </entry>
+                  <entry key="MavenRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Maven" pluginName="Maven" pluginId="org.jetbrains.idea.maven" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="PythonConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Python" pluginName="Python Community Edition" pluginId="PythonCore" />
