@@ -9,7 +9,6 @@
     <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>
 </application>
