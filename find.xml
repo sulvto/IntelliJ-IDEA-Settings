@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'tianjin_api'" />
-    <option name="defaultScopeName" value="Project 'tianjin_api'" />
-    <option name="SEARCH_SCOPE" value="Project 'tianjin_api'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
