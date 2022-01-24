@@ -4,11 +4,9 @@
       <action id="SaveAll" />
       <action id="CompileDirty" />
     </macro>
-    <macro name="auto stylecheck">
-      <action id="Macro.auto build" />
+    <macro name="auto check&amp;build">
       <action id="SaveAll" />
-      <action id="CompileDirty" />
-      <action id="Maven.RunBuild" />
+      <action id="CheckStyleModifiedFilesAction" />
       <action id="CompileDirty" />
     </macro>
   </component>
