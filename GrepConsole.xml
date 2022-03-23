@@ -1,5 +1,27 @@
 <application>
   <component name="GrepConsole">
+    <option name="grepHistory">
+      <list>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="保存草稿" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="文章编辑" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+      </list>
+    </option>
     <option name="profiles">
       <list>
         <Profile>
@@ -80,7 +102,6 @@
                     </GrepExpressionItem>
                   </list>
                 </option>
-                <option name="name" value="default" />
               </GrepExpressionGroup>
             </list>
           </option>
@@ -102,7 +123,6 @@
                     </GrepExpressionItem>
                   </list>
                 </option>
-                <option name="name" value="default" />
               </GrepExpressionGroup>
             </list>
           </option>
