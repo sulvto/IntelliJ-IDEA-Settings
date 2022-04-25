@@ -1,4 +1,5 @@
 <code_scheme name="GoogleStyle" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <option name="RIGHT_MARGIN" value="140" />
   <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
   <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
