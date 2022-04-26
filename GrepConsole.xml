@@ -42,15 +42,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="[接口直接调用]" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="调用指标 ratingRequestId" />
               </GrepModel>
             </list>
@@ -61,6 +52,24 @@
             <list>
               <GrepModel>
                 <option name="expression" value="指标数据回调 ratingRequestId" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="[接口直接调用]" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="开始请求接口  ratingRequestId" />
               </GrepModel>
             </list>
           </option>
