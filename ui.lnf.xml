@@ -5,7 +5,7 @@
   </component>
   <component name="UISettings">
     <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="20000" />
-    <option name="MAX_LOOKUP_WIDTH2" value="999" />
+    <option name="MAX_LOOKUP_WIDTH2" value="684" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
