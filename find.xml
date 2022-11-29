@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'kiss-service'" />
+    <option name="defaultScopeName" value="Project 'kiss-service'" />
+    <option name="SEARCH_SCOPE" value="Project 'kiss-service'" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
