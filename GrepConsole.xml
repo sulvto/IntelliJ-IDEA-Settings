@@ -78,7 +78,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="[同步用户]" />
+                <option name="expression" value="[同步系统组]" />
               </GrepModel>
             </list>
           </option>
@@ -87,7 +87,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="[同步系统组]" />
+                <option name="expression" value="[同步用户]" />
               </GrepModel>
             </list>
           </option>
